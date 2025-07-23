@@ -1,0 +1,6 @@
+@NotesApp.Server_HostAddress = http://localhost:5202
+
+GET {{NotesApp.Server_HostAddress}}/NotesApp/
+Accept: application/json
+
+###
